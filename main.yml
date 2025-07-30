@@ -4,5 +4,5 @@
   gather_facts: true
 
   roles:
-    - clear_chrome
-    - test_update
+    - update_controller
+    - init_update_corner
